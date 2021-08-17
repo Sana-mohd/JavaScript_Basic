@@ -18,3 +18,5 @@ const arr = [0, 1, 2];
 arr.forEach(num => {
   console.log(num);
 });
+
+console.log("hello");
